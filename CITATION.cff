@@ -6,8 +6,8 @@ date-released: "2026-04-16"
 url: "https://github.com/fracrvn/AntClust_NetLogo"
 abstract: "NetLogo implementation of the ANTCLUST clustering algorithm for a Distributed Artificial Intelligence course project."
 authors:
-  - family-names: "REPLACE_ME"
-    given-names: "REPLACE_ME"
+  - family-names: "Carretti Vandelli"
+    given-names: "Francesco"
 references:
   - type: article
     title: "A new clustering algorithm based on the chemical recognition system of ants"
