@@ -5,7 +5,7 @@ AntClust is an unsupervised clustering algorithm based on the chemical recogniti
 ## Biological Foundation
 In nature, ants solve a daily recognition problem to protect the nest by forming groups that share a dynamic chemical identity. This identity is constantly updated through social contact, with no central control; each ant maintains its own individual "vision" of the colony odor.
 
-## ⚙Algorithm Architecture
+## Algorithm Architecture
 The implementation follows the original theoretical framework by Labroche et al., divided into five distinct phases:
 
 1.  **Initialization**: Data objects are associated with artificial ants, with vectors representing genetic information.
