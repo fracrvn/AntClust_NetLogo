@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AntClust NetLogo Implementation"
+version: "0.1.0"
+date-released: "2026-04-16"
+url: "https://github.com/fracrvn/AntClust_NetLogo"
+abstract: "NetLogo implementation of the ANTCLUST clustering algorithm for a Distributed Artificial Intelligence course project."
+authors:
+  - family-names: "REPLACE_ME"
+    given-names: "REPLACE_ME"
+references:
+  - type: article
+    title: "A new clustering algorithm based on the chemical recognition system of ants"
+    authors:
+      - family-names: "Labroche"
+        given-names: "Nicolas"
+      - family-names: "Monmarché"
+        given-names: "Nicolas"
+      - family-names: "Venturini"
+        given-names: "Gilles"
+    year: 2003
