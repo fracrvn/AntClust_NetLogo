@@ -36,10 +36,10 @@ The model was validated through an extensive campaign of over **30,000 simulatio
 *The results show that the model excels in capturing data structure and efficiently scaling in high-dimensional spaces like the Breast Cancer dataset.*
 
 ## Repository Structure
-* `/model`: NetLogo `.nlogo` source code.
-* `/dataset`: Datasets (Iris, Glass, Breast Cancer) and result tables.
-* `/analysis`: Scripts for statistical processing and parameter calibration.
-* `/docs`: Final presentation and detailed documentation.
+* `/model`: NetLogo model file (`antclust.nlogox`).
+* `/dataset`: Source datasets (Iris, Glass, Breast Cancer) in CSV format.
+* `/results`: BehaviorSpace output tables and aggregated analysis notebook.
+* `/docs`: Final presentation and project documentation.
 
 ## Requirements
 * **NetLogo 7.x**
