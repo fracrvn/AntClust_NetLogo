@@ -16,7 +16,7 @@ The implementation follows the original theoretical framework by Labroche et al.
 4.  **Nest Cleanup**: Filtering out statistical noise and unstable clusters based on a minimum population threshold.
 5.  **Finalization**: Orphans are assigned to valid nests using a 1NN (First Nearest Neighbor) approach.
 
-## 🚀 Technical Enhancements
+## Technical Enhancements
 To optimize stability and explore the algorithm's limits, several advanced features were introduced:
 
 **Sequential Optimization**: The interaction model uses a sequential approach ($75 \times N$ iterations), significantly improving computational efficiency compared to parallel activation.
