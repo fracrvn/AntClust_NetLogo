@@ -4,7 +4,7 @@ title: "AntClust NetLogo Implementation"
 version: "0.1.0"
 date-released: "2026-04-16"
 url: "https://github.com/fracrvn/AntClust_NetLogo"
-abstract: "NetLogo implementation of the ANTCLUST clustering algorithm for a Distributed Artificial Intelligence course project."
+abstract: "NetLogo implementation of the ANTCLUST clustering algorithm for the Distributed Artificial Intelligence course project."
 authors:
   - family-names: "Carretti Vandelli"
     given-names: "Francesco"
